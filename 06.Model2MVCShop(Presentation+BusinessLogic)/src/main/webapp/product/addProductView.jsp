@@ -2,10 +2,6 @@
 <%@ page contentType="text/html; charset=EUC-KR"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
-<%
-Product product = (Product)request.getAttribute("product"); 
-System.out.println("addProductView product.toString : "+product);
-%><%--데이터 이동 확인용 --%>
 
 
 
